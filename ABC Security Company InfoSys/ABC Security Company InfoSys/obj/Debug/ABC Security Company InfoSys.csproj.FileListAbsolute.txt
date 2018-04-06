@@ -1,0 +1,17 @@
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\bin\Debug\ABC Security Company InfoSys.exe
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\bin\Debug\ABC Security Company InfoSys.pdb
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\obj\Debug\ABC_Security_Company_InfoSys.Properties.Resources.resources
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\obj\Debug\ABC Security Company InfoSys.csproj.GenerateResource.Cache
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\obj\Debug\ABC Security Company InfoSys.exe
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\obj\Debug\ABC Security Company InfoSys.pdb
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\obj\Debug\ABC_Security_Company_InfoSys.addEmployeeForm.resources
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\obj\Debug\ABC_Security_Company_InfoSys.LoginForm.resources
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\obj\Debug\ABC_Security_Company_InfoSys.MainInfoSysForm.resources
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\obj\Debug\ABC_Security_Company_InfoSys.monthlyPayslip.resources
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\obj\Debug\ABC_Security_Company_InfoSys.paySlipForm.resources
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\obj\Debug\ABC_Security_Company_InfoSys.viewEmployeeDetailsForm.resources
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\bin\Debug\ABC_Security_db.accdb
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\bin\Debug\ABC Security Company InfoSys.exe.config
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\obj\Debug\ABC_Security_Company_InfoSys.attendanceForm.resources
+C:\Users\Gsantos\Documents\Visual Studio 2008\Projects\ABC Security Company InfoSys\ABC Security Company InfoSys\obj\Debug\ABC_Security_Company_InfoSys.AboutForm.resources
