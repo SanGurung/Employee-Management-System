@@ -1,4 +1,6 @@
 # Employee-Management-System
+Written in Visual Studio C# .net, Microsoft Access database.
+
 This project was written for fictional company ABC Security Company and below is the details of it.
 
 ABC Security Company is a new established company that provides security services to various business organizations. The company has many part-time security guards and deploy these guards to its customers based on the service order received. The deployment of security guards need to be very flexible as it has to fulfil the customers’ requirement at very short notices. In this situation, maintaining the attendance history and generating payslip for its security guard employees has been a very difficult task for the administration and human resource department. 
